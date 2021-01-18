@@ -1,6 +1,6 @@
 # Bulk-Emailer
 
-This Project automates one of the most important tasks of corporate life. Send mails to masses with ease.
+This Project automates one of the most important tasks of corporate life, Sending mails to masses with ease.
 
 All you have to do is enter the required message, the List of all email-IDs the mail must be sent to along with your own (the sender's) email ID and password.
 
